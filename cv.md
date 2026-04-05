@@ -23,7 +23,7 @@ Back-end software engineer with 15+ years of experience building and operating e
 ### IBM (The Weather Company) — Software Engineer
 **Madison, WI | 10/2015–05/2023**
 
-- Sole DevOps engineer for three History on Demand (HOD) microservice products running on a 78-node IBM Cloud Kubernetes cluster, automating with Jenkins, Terraform, Helm, and GitHub webhooks.
+- Sole DevOps engineer for three History on Demand (HOD) products on a 78-node IBM Cloud Kubernetes cluster — async bulk weather data delivery APIs that load historical datasets into client-owned S3/COS buckets on demand.
 - Stood up white-label API backends using HAProxy with Kubernetes APIs and extended nginx ingresses.
 - Migrated applications from AWS Kubernetes to IBM Cloud, building new CI/CD workflows with Jenkins, Docker, Kapitan manifests, and ArgoCD.
 - Designed PostgreSQL persistence schemas using Spring Data to track system usage across 33 million geo points hourly from 2015 onward.
