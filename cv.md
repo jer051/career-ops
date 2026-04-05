@@ -15,15 +15,15 @@ Back-end software engineer with 15+ years of experience building and operating e
 ### Elevance Health — Lead Software Engineer
 **Madison, WI | 05/2023–Present**
 
-- Develop and maintain STARS360, an internal middleware serving Medicare compliance data to Elevance stakeholders via Spring Boot microservices backed by Oracle.
-- Built and maintain a Python FastAPI service that tracks performance metrics for internal stakeholders, pulling data from Snowflake.
-- Manage build, deployment, and operations of all team applications — including Spring Boot microservices and npm-based UI apps — on a shared Red Hat OpenShift cluster.
-- Handle CI/CD pipelines using Tekton and Jenkins.
+- Develop and maintain STARS360, a Medicare compliance middleware serving all Elevance Health regions and states via Spring Boot microservices backed by Oracle.
+- Built and maintain a Python FastAPI service tracking performance metrics for internal stakeholders, pulling data from Snowflake.
+- Own build, deployment, and operations for 30+ microservices across environments on a shared Red Hat OpenShift cluster, spanning 3 teams.
+- Manage CI/CD pipelines using Tekton and Jenkins.
 
 ### IBM (The Weather Company) — Software Engineer
 **Madison, WI | 10/2015–05/2023**
 
-- Deployed and maintained three History on Demand (HOD) microservice products in Docker containers on IBM Cloud Kubernetes, automating with Jenkins, Terraform, Helm, and GitHub webhooks.
+- Sole DevOps engineer for three History on Demand (HOD) microservice products running on a 78-node IBM Cloud Kubernetes cluster, automating with Jenkins, Terraform, Helm, and GitHub webhooks.
 - Stood up white-label API backends using HAProxy with Kubernetes APIs and extended nginx ingresses.
 - Migrated applications from AWS Kubernetes to IBM Cloud, building new CI/CD workflows with Jenkins, Docker, Kapitan manifests, and ArgoCD.
 - Designed PostgreSQL persistence schemas using Spring Data to track system usage across 33 million geo points hourly from 2015 onward.
